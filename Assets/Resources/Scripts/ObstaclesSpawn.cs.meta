@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e8eff7c04ecbc9240ad8baff3db150d7
+timeCreated: 1542708019
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - collider: {fileID: 122686, guid: 9107bb7201cd7ff4a98674d1a4d320ac, type: 2}
+  - item: {fileID: 157674, guid: f42acefef28f21d419294e28fc9e2e58, type: 2}
+  - colliderPole: {fileID: 184780, guid: 6be35b297761a574a9c324a978bebb31, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

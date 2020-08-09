@@ -1,0 +1,10 @@
+D:\Dokumente\Programmierung\Unity\MoveBoxesMoCap\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+D:\Dokumente\Programmierung\Unity\MoveBoxesMoCap\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
+D:\Dokumente\Programmierung\Unity\MoveBoxesMoCap\Temp\UnityVS_bin\Debug\UnityEditor.dll
+D:\Dokumente\Programmierung\Unity\MoveBoxesMoCap\Temp\UnityVS_bin\Debug\UnityEngine.dll
+D:\Dokumente\Programmierung\Unity\MoveBoxesMoCap\Temp\UnityVS_bin\Debug\Assembly-CSharp-firstpass.pdb
+D:\Dokumente\Programmierung\Unity\MoveBoxesMoCap\Temp\UnityVS_bin\Debug\UnityEngine.xml
+D:\Dokumente\Programmierung\Unity\MoveBoxesMoCap\Temp\UnityVS_bin\Debug\UnityEditor.xml
+D:\Dokumente\Programmierung\Unity\MoveBoxesMoCap\obj\Debug\UnityVS.MoveBoxesMoCap.CSharp.csprojResolveAssemblyReference.cache
+D:\Dokumente\Programmierung\Unity\MoveBoxesMoCap\obj\Debug\Assembly-CSharp.dll
+D:\Dokumente\Programmierung\Unity\MoveBoxesMoCap\obj\Debug\Assembly-CSharp.pdb
